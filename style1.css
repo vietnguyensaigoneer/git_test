@@ -1,0 +1,11 @@
+.number {background-color:#ff9999; color:#000000; font-family: Verdana, sans-serif; font-size: 22px;}
+.number-3 {font-size: 42px;}
+#number-2 {font-size: 52px; color:#0000ff;}
+#number-4 {font-weight : bold; background-color:#80ff80;color: #000000;font-size :33px;}
+.me,.nome {font-family: "Times New Roman", Helvetica, sans-serif; font-size: 28px;}
+.me {background-color: #000000; color: white;}
+.nome{background-color: #ffff00; color:#000000;}
+.avatar.proportioned {width:300px;height:auto;}
+.avatar.distorted {width:200px;height:400px;}
+.avatar {width:500px;height:auto;}
+.container .text {background-color:yellow; font-family:Arial , sans-serif; color:red; text-align:center;font-size: 20px;}
